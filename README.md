@@ -42,6 +42,6 @@ Saving model to then deploy on streamlit
 
 [app.py](app.py)
 
-[explore_page](explore_page.py)
+[explore_page](explore_page.py): page that explores the dataset based on the year
 
-[predict_page](predict_page.py)
+[predict_page](predict_page.py): page that predicts the tuition fee of chosen student
