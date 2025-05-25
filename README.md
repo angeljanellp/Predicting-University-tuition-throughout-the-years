@@ -12,7 +12,7 @@ International undergrads: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=
 
 International grads: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710022501
 
-## Description of Final Project notebook 🚀
+## Description of Final Project in jupyter notebook 📓
 Fixing all null values and merging all 4 csvs into 1 dataframe
 
 EDA and cleaning/dropping redundant columns
@@ -38,7 +38,7 @@ Saving model to then deploy on streamlit
 
 [International grads](i_grad.csv)
 
-## streamlit py
+## Deploying with streamlit 🚀
 
 [app.py](app.py)
 
