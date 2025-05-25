@@ -12,4 +12,4 @@ International undergrads: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=
 
 International grads: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710022501
 
-[Canadian Undergrads](c_undergrad.csv)
+[Canadian Undergrads](c_undegrad.csv)
